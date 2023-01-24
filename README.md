@@ -72,7 +72,7 @@
 <h2 id="autor">Autor</h2>
 
 <p>
-  Projeto feito por <a href="https://github.com/FeBotero">Felipe Botero<a/></p>
+  Projeto feito por <a href="https://todo-list-ignite-01.vercel.app/">Felipe Botero<a/></p>
   
   
 <h2 id="licenca">Licença</h2>
