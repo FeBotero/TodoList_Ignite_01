@@ -22,7 +22,7 @@
 <p>Consiste em uma lista de tarefas, onde o úsuario pode criar novas tarefas, e dizer quais foram concluídas.</p>
 
  <h2 id="layout">Layout</h2>
- <p><a href="https://febotero.github.io/TodoList_Ignite_01/">link</a></p>
+ <p><a href="https://todo-list-ignite-01.vercel.app/">link</a></p>
  <p>Foto do projeto</p>
 <img alt="ToDo" src="https://github.com/FeBotero/TodoList_Ignite_01/blob/main/Scree.png">
 
@@ -72,7 +72,7 @@
 <h2 id="autor">Autor</h2>
 
 <p>
-  Projeto feito por <a href="https://todo-list-ignite-01.vercel.app/">Felipe Botero<a/></p>
+  Projeto feito por <a href="https://github.com/FeBotero">Felipe Botero<a/></p>
   
   
 <h2 id="licenca">Licença</h2>
